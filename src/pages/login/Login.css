@@ -1,0 +1,25 @@
+.fit-parent {
+    height: 100vh;
+}
+
+.center-childs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.m-size {
+    width: 600px;
+}
+
+.m-margin {
+    margin: 5px;
+}
